@@ -22,3 +22,9 @@ int main()
 	} 
 	 return 0;
 }				
+
+
+  OUTPUT
+the parent process ID is 6498
+
+the child process ID is 6499
